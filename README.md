@@ -19,4 +19,5 @@ bash > sudo "percorso del file"
 - Mettere il colore viola (opzionale)
 
 
-# Grazie del supporto e soprattutto usare Linux Fedora/Nobara
+# Grazie del supporto
+Vorrrei ringraziare tutti nel supporto che mi date e soprattutto se supporterete questo progetto chissà forse in futuro uscirà la versione script per Windows
