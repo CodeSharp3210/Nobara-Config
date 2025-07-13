@@ -20,4 +20,4 @@ bash > sudo "percorso del file"
 
 
 # Grazie del supporto
-Vorrrei ringraziare tutti nel supporto che mi date e soprattutto se supporterete questo progetto chissà forse in futuro uscirà la versione script per Windows
+Vorrrei ringraziare tutti nel supporto che mi date e soprattutto se supporterete questo progetto chissà forse in futuro uscirà la versione script per Windows o arriverà la versione in python
