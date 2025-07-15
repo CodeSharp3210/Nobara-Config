@@ -92,6 +92,6 @@ cp "$CONFIG_DIR/original-click.ogg" "$CONFIG_DIR/click.ogg"
 # Ricarica impostazione del suono (rimane sempre "click", ma ora il file è personalizzato)
 gsettings set org.gnome.desktop.sound theme-name "gnome"
 
-echo "✅ Suono 'click' reimpostato con versione personalizzata."
+echo "Suono 'click' reimpostato con versione personalizzata."
 
-echo "🎉 Configurazione completata!"
+echo "Configurazione completata!"
